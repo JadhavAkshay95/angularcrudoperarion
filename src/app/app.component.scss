@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+}
+.header-container {
+    display: flex;
+    background: #b31919;
+    color: white;
+    padding: 5px 10px;
+
+    .user-title {
+        margin: 7px;
+        font-size: 20px;
+    }
+}

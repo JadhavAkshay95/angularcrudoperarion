@@ -1,0 +1,14 @@
+.user-details-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    img {
+        height: 200px;
+        width: 200px;
+    }
+
+    .user-details {
+        font-size: 20px;
+        font-weight: 600;
+    }
+}
